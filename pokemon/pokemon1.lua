@@ -10,7 +10,7 @@ local ralts = {
     return {vars = {''..(G.GAME and G.GAME.probabilities.normal or 1), center.ability.extra.odds or 5, center.ability.extra.triggers, center.ability.extra.Xmult_minus}}
   end,
   rarity = 1, 
-  cost = 5, 
+  cost = 6, 
   stage = "Baby", 
   ptype = "Psychic",
   atlas = "pokedex_3",
@@ -61,8 +61,8 @@ local kirlia = {
     info_queue[#info_queue+1] = {key = 'e_negative_consumable', set = 'Edition', config = {extra = 1}}
     return {vars = {''..(G.GAME and G.GAME.probabilities.normal or 1), center.ability.extra.odds or 4, center.ability.extra.triggers, center.ability.extra.hsize or 0 }}
   end,
-  rarity = 1, 
-  cost = 5, 
+  rarity = 3, 
+  cost = 8, 
   stage = "2", 
   ptype = "Psychic",
   atlas = "pokedex_3",
@@ -119,8 +119,8 @@ local gardevoir = {
     info_queue[#info_queue + 1] = {set = 'Other', key = 'mega_poke'}
     return {vars = {''..(G.GAME and G.GAME.probabilities.normal or 1), center.ability.extra.odds or 4, center.ability.extra.hsize or 0, center.ability.extra.Xmult, center.ability.extra.Xmult_mod, (center.ability.extra.Xmult_mod * 2) }}
   end,
-  rarity = 1, 
-  cost = 5, 
+  rarity = "poke_safari", 
+  cost = 10, 
   stage = "3", 
   ptype = "Psychic",
   atlas = "pokedex_3",
