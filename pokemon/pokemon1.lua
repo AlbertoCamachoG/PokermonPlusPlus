@@ -195,7 +195,6 @@ local mega_gardevoir = {
     if context.repetition and context.cardarea == G.play then
       for k, v in pairs(context.scoring_hand) do
         if v.seal == 'poke_pink_seal' then
-          print(v.rank, v.suit)
           return {
             message = localize('k_again_ex'),
             repetitions = 1,
