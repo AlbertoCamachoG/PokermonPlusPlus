@@ -46,7 +46,7 @@ return {
                 name = 'Mega Gardevoir',
                 text = {
                         "{C:attention}+#3#{} consumable slot",
-                        "{C:green}#1# in #2#{} chance to create a {C:dark_edition}negative{} copy of it at the end of round.",
+                        "{C:green}#1# in #2#{} chance to create a {C:dark_edition}negative{} copy of leftmost consumable at the end of round.",
                         "{br:2}text needs to be here to work",
                         "Retriggers hand if it contains a {C:pink}pink seal{}.",
                 }
