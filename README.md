@@ -15,4 +15,11 @@ if to_key == 'j_poke_gardevoir' then to_key = 'j_euclashh_gardevoir' end<br />
 
 ![imagen](https://github.com/user-attachments/assets/7d8e2607-ce50-4614-aa71-d90b7b7bb260)
 <br />
-5.- Enjoy
+5.- Enjoy<br />
+<br />
+-SPOILERS-<br />
+Joker effects:<br />
+Ralts: Destroy leftmost consumable, 1/5 chance to create a negative copy of it at the end of round. Baby: X0.75 Mult. Blueprints copies will not destroy a card.
+Kirlia: Destroy leftmost consumable, 1/4 chance to create a negative copy of it at the end of round. Adds a pink seal to leftmost played card. Blueprints copies will not destroy a card.
+Gardevoir: Destroy leftmost consumable, 1/3 chance to create a negative copy of it at the end of round. If destroyed consumable is an spectral card, gain X1 Mult, otherwise gain X0.5. Blueprints copies will not destroy a card.
+Mega-Gardevoir: 1/2 chance to create a negative copy of leftmost consumable at the end of round. Retrigger hand if it contains a pink seal.
